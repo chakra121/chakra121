@@ -41,10 +41,10 @@ Here are some of the technologies I work with:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chakra121&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chakra121&layout=compact&theme=radical)
 
----
+<!--
 
 ![Metrics](./github-metrics.svg)
-
+-->
 ---
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=chakra121&theme=radical&hide_border=true)
 
