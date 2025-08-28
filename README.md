@@ -25,7 +25,6 @@ Aspiring Software Engineer • AI Enthusiast • Explorer of code & cool ideas
 
 ---
 
-*(Optional cool add-on later)*  
 ![Metrics](./metrics.svg)
 
 ---
