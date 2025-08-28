@@ -47,6 +47,7 @@ Here are some of the technologies I work with:
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=chakra121&theme=radical&hide_border=true)
+
 ---
 
 ### Let’s Connect
