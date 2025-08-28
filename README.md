@@ -43,7 +43,7 @@ Here are some of the technologies I work with:
 
 ---
 
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
 
 ---
 
