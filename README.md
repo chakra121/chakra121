@@ -46,7 +46,7 @@ Here are some of the technologies I work with:
 ![Metrics](./github-metrics.svg)
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=chakra121&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=chakra121&theme=radical&hide_border=true)
 
 ---
 
