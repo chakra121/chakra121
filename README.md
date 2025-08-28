@@ -1,22 +1,40 @@
-## Hi there 👋
+# Hey, I’m B Srichakra Prasad Rao (aka **chakra121**) 👋
 
-<!--
-**chakra121/chakra121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer • AI Enthusiast • Explorer of code & cool ideas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Featured Projects
 
-# Hi there 👋
+| Project | Description |
+|--------|-------------|
+| **edueme** | *(short AI-generated description here…)* |
+| **ace-canteen** | *(short description…)* |
+| **srichakra-portfolio** | *(short description…)* |
+| **code-fable-ai** | "Where every line of code tells a story—yours." |
+| **chakra121** | My dev playground and coding canvas |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chakra121&show_icons=true&theme=radical)
+*(Let me know if you want real summaries here!)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakra121&layout=compact&theme=radical)
+---
+
+###  GitHub Stats & Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chakra121&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chakra121&layout=compact&theme=radical)
+
+---
+
+*(Optional cool add-on later)*  
+![Metrics](./metrics.svg)
+
+---
+
+### Let’s Connect
+
+- Leetcode: [chakra121](https://leetcode.com/u/chakra121/)  
+- Drop a star ⭐ or slide into my GitHub DMs—I’m always learning 💬
+
+---
+
+*Thanks for stopping by—let’s build something awesome together!*  🚀  
