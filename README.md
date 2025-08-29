@@ -3,7 +3,7 @@
 Aspiring Software Engineer • AI Enthusiast • Explorer of code & cool ideas
 
 ---
-
+<!--
 ###  Featured Projects
 
 | Project | Description |
@@ -13,7 +13,7 @@ Aspiring Software Engineer • AI Enthusiast • Explorer of code & cool ideas
 | **srichakra-portfolio** | *(short description…)* |
 | **code-fable-ai** | "Where every line of code tells a story—yours." |
 | **chakra121** | My dev playground and coding canvas |
-
+-->
 ---
 ## 🛠️ Tech Stack
 
