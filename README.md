@@ -1,4 +1,4 @@
-# Hey, I’m B Srichakra Prasad Rao (aka **chakra121**) 👋
+# Hey, I’m Srichakra👋
 
 Aspiring Software Engineer • AI Enthusiast • Explorer of code & cool ideas
 
