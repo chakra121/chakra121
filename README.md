@@ -1,6 +1,6 @@
 # Hey, I’m Srichakra👋
 
-Aspiring Software Engineer • AI Enthusiast • Explorer of code & cool ideas
+Aspiring Software Engineer
 
 # 💫 About Me:
 I am a B.Tech Information Technology student (2022–2026) with a strong interest in full-stack web development and building scalable, user-focused applications.<br><br>During my internship at Edueme Research Labs, I worked on the complete development lifecycle of admin, student, and teacher dashboards. I implemented backend systems, integrated Razorpay for payments, and managed complex data models using Prisma ORM and MongoDB.<br><br>I recently developed an AI-powered storytelling-based coding tutor, aimed at making programming more engaging for beginners by combining narrative-driven explanations with core programming concepts.<br><br>My current stack includes Next.js, React, TypeScript, Tailwind CSS, Prisma, MongoDB, and Spring Boot (Java).<br><br>I’ve also been actively strengthening my Data Structures and Algorithms (DSA) skills over the past two months to build a solid foundation for software development roles.<br><br>I am continuously learning, especially in areas like backend design, scalable systems, and practical uses of AI in education and productivity. I’m open to internship opportunities and collaborative projects that allow me to grow as a developer and problem solver.
